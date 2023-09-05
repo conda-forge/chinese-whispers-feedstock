@@ -1,11 +1,11 @@
-About chinese-whispers
-======================
+About chinese-whispers-feedstock
+================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/chinese-whispers-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/nlpub/chinese-whispers-python
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/chinese-whispers-feedstock/blob/main/LICENSE.txt)
 
 Summary: An implementation of the Chinese Whispers clustering algorithm.
 
