@@ -1,5 +1,5 @@
 {% set name = "chinese-whispers" %}
-{% set version = "0.8.2.post2" %}
+{% set version = "0.9.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/chinese_whispers-{{ version }}.tar.gz
-  sha256: a54e7235795dae199cadb7b94489e77f3cf6331980f6bb8e8439dd732587b1f6
+  sha256: ed63521dec01210c6f0c3e8a6e234aa2dfd6b1fac47872b1ef285bd1b1723704
 
 build:
   entry_points:
